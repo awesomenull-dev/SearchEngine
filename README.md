@@ -1,3 +1,4 @@
+# this project no longer developed. don't use it
 # SearchEngine
 
 Search engine for Anything — fuzzy/regex/exact search with Everything-like query syntax.
